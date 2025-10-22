@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Rafael Costa! 👋
+
+
+## 🚀 About Me
+Frontend Developer passionate about crafting clean, fast and intuitive web experiences.
 
 <!--
 **rafaelcostat/rafaelcostat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
